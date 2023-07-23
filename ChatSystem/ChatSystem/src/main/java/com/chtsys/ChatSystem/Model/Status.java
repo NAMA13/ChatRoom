@@ -1,7 +1,7 @@
 package com.chtsys.ChatSystem.Model;
 
 public class Status {
-    JOIN,
-    MESSAGE,
-    LEAVE
+//    JOIN,
+//    MESSAGE,
+//    LEAVE
 }
