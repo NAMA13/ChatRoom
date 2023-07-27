@@ -38,6 +38,7 @@ const ChatRoom = () => {
         client.activate();
         userJoin();
     }
+    // find error 
 
     const userJoin=()=>{
           var chatMessage = {
